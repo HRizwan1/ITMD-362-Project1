@@ -7,5 +7,28 @@
     <link rel="stylesheet" media="screen" href="css/style.css" />
   </head>
   <body>
+    <main id="form">
+      <form method="get" action="#null">
+        <h1>Leading Technology Newsletter</h1>
+          <p>
+          Sign up to recieve news adbout new products and news in Technology!
+          </p>
+          <ol>
+          <li id="input-">
+            <label for="fname">First Name</label>
+            <input type="text" name="fname" placeholder="Enter First Name" autocomplete="on"/>
+          </li>
+          <li id="input-age-verification">
+            <input type="checkbox" id="age-verification" name="age-verification" value="18" />
+            <label for="age-verification">I am 18 years of age or older and there is no denying that this is true</label>
+          </li>
+          <li id="input-submit">
+            <input type="submit" name="submit" id="submit" value="Subscribe" />
+          </li>
+          </ol>
+      </form>
+    </main>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="js/site.js"></script>
   </body>
 </html>
