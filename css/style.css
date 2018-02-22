@@ -260,11 +260,12 @@ label {
 	font-family: 'Abril Fatface', cursive;
 	font-weight: 600;
 	font-size: 80%;
+	color: #D10909;
 }
 ol{
 	margin-left: 10%;
 }
 input[type="submit"] {
 	margin-top: 10%;
-	margin-left: 35%;
+	margin-left: 30%;
 }
