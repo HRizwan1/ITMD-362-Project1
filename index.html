@@ -14,16 +14,20 @@
           Sign up to recieve news adbout new products and news in Technology!
           </p>
           <ol>
-          <li id="input-">
+          <label id="firstname">
             <label for="fname">First Name</label>
             <input type="text" name="fname" placeholder="Enter First Name" autocomplete="on"/>
           </li>
-          <li id="input-age-verification">
-            <input type="checkbox" id="age-verification" name="age-verification" value="18" />
-            <label for="age-verification">I am 18 years of age or older and there is no denying that this is true</label>
+          <li id="lastname">
+            <label for="lname">Last Name</label>
+            <input type="text" name="lname" placeholder="Enter Last Name" autocomplete="on"/>
+          </li>
+          <li id="input-email">
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" pattern="^.+@.+$" />
           </li>
           <li id="input-submit">
-            <input type="submit" name="submit" id="submit" value="Subscribe" />
+            <input type="submit" name="submit" id="submit" value="Sign Up" />
           </li>
           </ol>
       </form>
