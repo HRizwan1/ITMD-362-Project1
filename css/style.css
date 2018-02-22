@@ -264,3 +264,6 @@ label {
 ol{
 	margin-left: 10%;
 }
+input[type="submit"] {
+	margin-left: 40%;
+}
