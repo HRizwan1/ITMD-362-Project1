@@ -239,6 +239,8 @@ body {
 	background-size: 100% 100%;
 }
 p {
+	border-style: inset;
+	background-color: #DBECEF;
 	font-family: 'Bellefair', serif;
 	font-size: 160%;
 	color: #D10909;
@@ -256,7 +258,8 @@ h1 {
 	padding-top: 8px;
 	padding-bottom: 8px;
 }
-label {
+label { border-style: outset;
+	background-color: #F2F2FA;
 	font-family: 'Abril Fatface', cursive;
 	font-weight: 600;
 	font-size: 80%;
