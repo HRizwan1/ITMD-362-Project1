@@ -233,3 +233,7 @@ label {
   	text-align: right;
   }	  
 }
+body {
+	background-image: url("technology.jpg");
+	background-color: #CCEAF3;
+}
