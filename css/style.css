@@ -240,13 +240,15 @@ body {
 }
 p {
 	font-family: 'Bellefair', serif;
-	font-size: 25px;
+	font-size: 120%;
 	color: #F6DDFC;
 }
 h1 {
 	font-family: 'Krona One', sans-serif;
+	font-size: 200%;
 }
 label {
 	font-family: 'Abril Fatface', cursive;
 	font-weight: 600;
+	font-size: 80%;
 }
