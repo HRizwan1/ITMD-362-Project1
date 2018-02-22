@@ -236,7 +236,7 @@ label {
 body {
 	background-image: url("../technology.jpg");
 	background-color: #CCEAF3;
-	background-size: 960px 960px;
+	background-size: 100% 100%;
 }
 p {
 	font-family: 'Bellefair', serif;
