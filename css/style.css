@@ -243,7 +243,7 @@ p {
 	background-color: #DBECEF;
 	font-family: 'Bellefair', serif;
 	font-size: 160%;
-	line-height: 1.3;
+	line-height: 1.1;
 	color: #04834C;
 	margin-bottom: 17px;
 	margin-left: 5%;
@@ -266,7 +266,7 @@ label {
 	font-family: 'Abril Fatface', cursive;
 	font-weight: 600;
 	font-size: 80%;
-	color: #04834C;
+	color: #FF8000;
 }
 ol{
 	margin-left: 10%;
