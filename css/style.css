@@ -267,6 +267,7 @@ label {
 	font-weight: 600;
 	font-size: 80%;
 	color: #66FF66;
+	text-shadow: 0 0 3px #ff3300;
 }
 ol{
 	margin-left: 10%;
