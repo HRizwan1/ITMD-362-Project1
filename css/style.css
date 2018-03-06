@@ -242,7 +242,7 @@ body {
 }
 body::after {
         content: "";
- 	background: url("../technology.jpg");
+ 	background: url("../images/technology.jpg");
 	background-size: 100% 100%;
   	opacity: 0.5;
   	position: absolute;
