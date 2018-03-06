@@ -256,7 +256,7 @@ body::after {
 p {
 	border-style: double;
 	background-color: #DBECEF;
-	font-family: 'Bellefair', serif;
+	font-family: 'Bellefair','Vidaloka','Coustard', serif;
 	font-size: 160%;
 	line-height: 1.1;
 	color: #04834C;
@@ -268,7 +268,7 @@ p {
 	padding-right: 4px;
 }
 h1 {
-	font-family: 'Krona One','Oswald', sans-serif;
+	font-family: 'Krona One','Oswald','Acme', sans-serif;
 	font-size: 170%;
 	text-shadow: 0 0 4px #ff3300;
 	line-height: 1.4;
